@@ -35,5 +35,6 @@
         android:layout_width="match_parent"
         android:layout_height="2dp"
         android:background="#ffffff"
-        android:layout_below="@id/movie_poster"></View>
+        android:layout_below="@id/movie_poster"/>
+
 </RelativeLayout>
